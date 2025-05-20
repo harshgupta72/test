@@ -1,1 +1,1 @@
-Welcome to Gaya College Of Engineering, Gaya. This is the training session for full stack web development for 5th Sem students.
+Welcome to Gaya College Of Engineering, Gaya. This is the training session for full stack web development for 5th Sem students. It is fourth lecture today.
